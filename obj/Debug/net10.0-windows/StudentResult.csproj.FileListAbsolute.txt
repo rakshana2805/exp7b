@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c# LAB\StudentResult\bin\Debug\net10.0-windows\StudentResult.exe
+C:\Users\Admin\Desktop\c# LAB\StudentResult\bin\Debug\net10.0-windows\StudentResult.deps.json
+C:\Users\Admin\Desktop\c# LAB\StudentResult\bin\Debug\net10.0-windows\StudentResult.runtimeconfig.json
+C:\Users\Admin\Desktop\c# LAB\StudentResult\bin\Debug\net10.0-windows\StudentResult.dll
+C:\Users\Admin\Desktop\c# LAB\StudentResult\bin\Debug\net10.0-windows\StudentResult.pdb
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.dll
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\refint\StudentResult.dll
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.pdb
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\StudentResult.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c# LAB\StudentResult\obj\Debug\net10.0-windows\ref\StudentResult.dll
